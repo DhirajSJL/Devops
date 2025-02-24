@@ -1,1 +1,2 @@
-Test of adding folder anfd a file in new folder
+Test of adding folder and a file in new folder
+HELLO WORLD
