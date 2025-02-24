@@ -1,3 +1,4 @@
 Test of adding folder and a file in new folder
 HELLO WORLD
 Check changes in file.
+THIS IS TO CREATE A CONFLICT
